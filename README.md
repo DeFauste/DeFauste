@@ -17,5 +17,5 @@ I am Sergey from St. Petersburg. I am actively studying C# and Unity development
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,linux,cpp" /></a>
+    <img src="https://skillicons.dev/icons?i=cs,unity,linux,docker,k8s" /></a>
   </p>
