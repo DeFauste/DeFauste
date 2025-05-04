@@ -5,7 +5,6 @@
 
 I am Sergey from St. Petersburg. I am actively studying C# and Unity development. I am open to new ideas and suggestions. You can get acquainted with the projects I have worked on at the following links:
 ## ASP.NET Core/C#:
-+ [Web API для Магазина](https://github.com/DeFauste/StoreWebApi/tree/main)
 + [Хранение платформ](https://github.com/DeFauste/PlatformProject)
 ## Game:
 
